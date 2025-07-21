@@ -1,0 +1,29 @@
+h1{
+	color:rosybrown;
+	 text-align:center;
+	 font-size:70px;
+	 font-style: normal;
+	text-align:center;
+	 font-family : "Luminari", fantasy
+}
+h2{
+	color:rosybrown;
+	 font-size:55px;
+	 font-style: italic;
+    text-align:center;
+	  font-family : "New Century Schoolbook", TeX Gyre Schola, serif
+}
+h3{
+	color:sienna;
+	 font-size:35px;
+	text-decoration: sienna underline;
+	  font-family : "New Century Schoolbook", TeX Gyre Schola, serif
+}
+p{
+    color:rosybrown;
+     font-size:25px;
+     font-family : "New Century Schoolbook", TeX Gyre Schola, serif
+}
+a{
+	font-size:25px;
+}
